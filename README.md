@@ -9,18 +9,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de desarrollo de software apasionado por la programación y la tecnología.
+Soy estudiante de la carrera Ingenieria de Sistemas cursando el 7mo semestre con la mencion de <br>
+Informatica y Telecomunicaciones <br>
+Desarrollador Web FullStack autodidacta con camino a aprender integracion de IA en el Desarrollo Web <br>
 
-Estas son las herramientas que uso:
 
-- 🐘 PHP
-- ⚡ Laravel
-- 🗄️ MySQL
-- 🌐 Desarrollo web
-
-Mi objetivo es convertirme en **desarrollador backend profesional**.
-
----
 
 ## 🛠 Tecnologías
 
