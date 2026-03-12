@@ -44,8 +44,8 @@ Actualmente curso el **7mo semestre de Ingeniería de Sistemas**, con mención e
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoeJhl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoeJhl&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
