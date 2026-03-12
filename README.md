@@ -17,9 +17,9 @@
 
 Actualmente curso el **7mo semestre de Ingeniería de Sistemas**, con mención en Informática y Telecomunicaciones. Como desarrollador autodidacta, me apasiona crear soluciones eficientes y mantener un aprendizaje constante.
 
-* 🔭 Enfocado en el desarrollo web utilizando arquitecturas limpias y estructuradas (como MVC).
-* 🌱 Explorando y aprendiendo sobre la **integración de Inteligencia Artificial** en el desarrollo web.
-* ⚡ Me encanta optimizar flujos de trabajo y construir proyectos que resuelvan problemas reales.
+* Enfocado en el desarrollo web utilizando arquitecturas limpias y estructuradas (como MVC).
+* Explorando y aprendiendo sobre la **integración de Inteligencia Artificial** en el desarrollo web.
+* Me encanta optimizar flujos de trabajo y construir proyectos que resuelvan problemas reales.
 
 ---
 
