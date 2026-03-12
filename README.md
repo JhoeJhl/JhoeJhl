@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="ENLACE_A_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portafolio-ashy-alpha-90.vercel.app"><img src="https://img.shields.io/badge/style=for-the-badge&logoColor=white" alt="Portafolio"></a>
+  <a href="https://portafolio-ashy-alpha-90.vercel.app">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
+</a>
 </p>
 
 ---
