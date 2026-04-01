@@ -15,11 +15,11 @@
 
 ### 👨‍💻 Sobre mí
 
-Actualmente curso el **7mo semestre de Ingeniería de Sistemas**, con mención en Informática y Telecomunicaciones. Como desarrollador autodidacta, me apasiona crear soluciones eficientes y mantener un aprendizaje constante.
+Tecnico Medio en Sistemas Informaticos | Actualmente cursando el **7mo semestre de Ingeniería de Sistemas**, con mención en Informática y Telecomunicaciones. Soy desarrollador autodidacta, me apasiona crear soluciones eficientes y mantener un aprendizaje constante.
 
-* Enfocado en el desarrollo web utilizando arquitecturas limpias y estructuradas (como MVC).
+* Enfocado en el desarrollo web utilizando arquitecturas limpias y estructuradas (como MVC y MVVM).
 * Explorando y aprendiendo sobre la **integración de Inteligencia Artificial** en el desarrollo web.
-* Me encanta optimizar flujos de trabajo y construir proyectos que resuelvan problemas reales.
+* Me encanta optimizar flujos de trabajo y construir proyectos enfocados en la solucion de  problemas reales.
 
 ---
 
@@ -35,7 +35,7 @@ Actualmente curso el **7mo semestre de Ingeniería de Sistemas**, con mención e
 
 | 📦 Proyecto | 🔧 Tecnologías Principales | 💡 Descripción |
 | :--- | :--- | :--- |
-| **Sistema de Gestión de Farmacia** | PHP, MVC, MySQL | Plataforma para el control de inventario y gestión utilizando arquitectura MVC. |
+| **Sistema E-learning** | Laravel 12, Vue.js, Inertia, PostgreSQL | Plataforma E-learning sobre cursos de formacion de base a la Programacion y conocimentos para complementar en el desarrollonde un buen profesional de Ingenieria de Sistemas o ramad a fines. |
 | **Sistema de Gestión de Tareas** | Laravel, Tailwind | Aplicación web para la organización, seguimiento y optimización de tareas diarias. |
 | **Carrito de Compras** | PHP, JavaScript | Plataforma funcional de e-commerce con gestión de productos y flujo de pago. |
 
@@ -51,5 +51,5 @@ Actualmente curso el **7mo semestre de Ingeniería de Sistemas**, con mención e
 <br>
 
 <p align="center">
-  <i>⭐ Siempre aprendiendo nuevas tecnologías y construyendo proyectos, línea a línea.</i>
+<i> Manteniendo constancia en el aprendisaje de nuevas tecnologías y construyendo proyectos para solucionar problemas reales.</i>
 </p>
