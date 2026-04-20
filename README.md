@@ -47,6 +47,8 @@ Tecnico Medio en Sistemas Informaticos | Actualmente cursando el **7mo semestre 
   <img src="https://github-readme-stats.vercel.app/api?username=JhoeJhl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoeJhl&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
 </div>
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-red)
 
 <br>
 
