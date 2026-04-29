@@ -1,55 +1,118 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=58a6ff&height=200&section=header&text=¡Hola,%20soy%20Joel%20Pinto!&fontSize=50" alt="Banner de bienvenida" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&fontColor=58a6ff&height=200&section=header&text=Joel%20Pinto&fontSize=50" />
 </div>
 
-<h3 align="center">Desarrollador Web Full Stack | Estudiante de Ingeniería de Sistemas</h3>
+<h2 align="center">💻 Full Stack Developer | Ingeniería de Sistemas</h2>
 
 <p align="center">
-  <a href="ENLACE_A_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="ENLACE_A_TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://portafolio-ashy-alpha-90.vercel.app">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
-</a>
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Tecnico Medio en Sistemas Informaticos | Actualmente cursando el **7mo semestre de Ingeniería de Sistemas**, con mención en Informática y Telecomunicaciones. Soy desarrollador autodidacta, me apasiona crear soluciones eficientes y mantener un aprendizaje constante.
+🎓 Estudiante de **Ingeniería de Sistemas (7mo semestre)**  
+💡 Apasionado por el desarrollo web y la construcción de soluciones reales  
+🚀 Enfocado en **arquitecturas limpias, escalabilidad y buenas prácticas**
 
-* Enfocado en el desarrollo web utilizando arquitecturas limpias y estructuradas (como MVC y MVVM).
-* Explorando y aprendiendo sobre la **integración de Inteligencia Artificial** en el desarrollo web.
-* Me encanta optimizar flujos de trabajo y construir proyectos enfocados en la solucion de  problemas reales.
-
----
-
-### 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,laravel,vue,tailwind,git,github,linux,vscode,n8n&perline=7&theme=dark" alt="Tech Stack" />
-</div>
+- ⚙️ Backend sólido con Laravel y PHP
+- 🎨 Desarrollo frontend moderno
+- 🧠 Aprendiendo integración de IA
+- 🔄 Mejora continua y optimización de procesos
 
 ---
 
-### 🚀 Proyectos Destacados
+# 🧩 Tech Stack
 
-| 📦 Proyecto | 🔧 Tecnologías Principales | 💡 Descripción |
-| :--- | :--- | :--- |
-| **Sistema E-learning** | Laravel 12, Vue.js, Inertia, PostgreSQL | Plataforma E-learning sobre cursos de formacion de base a la Programacion y conocimentos para complementar en el desarrollonde un buen profesional de Ingenieria de Sistemas o ramad a fines. |
-| **Sistema de Gestión de Tareas** | Laravel, Tailwind | Aplicación web para la organización, seguimiento y optimización de tareas diarias. |
-| **Carrito de Compras** | PHP, JavaScript | Plataforma funcional de e-commerce con gestión de productos y flujo de pago. |
+## 🚀 Tecnologías Principales
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoeJhl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoeJhl&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
+### ⚙️ Backend
 <p align="center">
-<i> Manteniendo constancia en el aprendisaje de nuevas tecnologías y construyendo proyectos para solucionar problemas reales.</i>
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
 </p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind&theme=dark" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+# 📈 Roadmap Profesional (LO QUE TE HARÁ DESTACAR)
+
+## 🧠 Backend Avanzado (PRIORIDAD ALTA)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+- APIs REST bien estructuradas
+- Autenticación (JWT, OAuth)
+- Arquitectura escalable
+
+---
+
+## ⚡ Frontend PRO
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs&theme=dark" />
+</p>
+
+- Aplicaciones modernas tipo SPA
+- Mejor manejo de estados
+- Código más escalable
+
+---
+
+## ☁️ DevOps (LO QUE TE DIFERENCIA DEL RESTO)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
+</p>
+
+- Contenedores con Docker
+- Deploy profesional
+- CI/CD básico
+
+---
+
+## 🤖 Inteligencia Artificial (TU PLUS DIFERENCIAL)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+- Integrar IA en apps web
+- Automatización
+- APIs de IA
+
+---
+
+# 🚀 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción |
+|----------|------------|------------|
+| 🧠 Sistema E-learning | Laravel, Vue, PostgreSQL | Plataforma educativa enfocada en programación |
+| 📋 Gestión de Tareas | Laravel, Tailwind | Organización y productividad |
+| 🛒 E-commerce | PHP, JS | Sistema completo de compras |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoeJhl&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhoeJhl&theme=github_dark&hide_border=true" width="48%"/>
+</div>
