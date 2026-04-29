@@ -20,17 +20,16 @@
 🎓 Estudiante de **Ingeniería de Sistemas (7mo semestre)**  
 💡 Apasionado por el desarrollo web y la construcción de soluciones reales  
 🚀 Enfocado en **arquitecturas limpias, escalabilidad y buenas prácticas**
+<ul>
+  <li>Backend sólido con Laravel y PHP</li>
+  <li>Desarrollo frontend moderno</li>
+  <li>Aprendiendo integración de IA</li>
+</ul>
 
-- ⚙️ Backend sólido con Laravel y PHP
-- 🎨 Desarrollo frontend moderno
-- 🧠 Aprendiendo integración de IA
-- 🔄 Mejora continua y optimización de procesos
 
 ---
 
-# 🧩 Tech Stack
-
-## 🚀 Tecnologías Principales
+# TECH STACK
 
 ### ⚙️ Backend
 <p align="center">
@@ -39,7 +38,7 @@
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vue,tailwind&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos
@@ -51,53 +50,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
-
----
-
-# 📈 Roadmap Profesional (LO QUE TE HARÁ DESTACAR)
-
-## 🧠 Backend Avanzado (PRIORIDAD ALTA)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-- APIs REST bien estructuradas
-- Autenticación (JWT, OAuth)
-- Arquitectura escalable
-
----
-
-## ⚡ Frontend PRO
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs&theme=dark" />
-</p>
-
-- Aplicaciones modernas tipo SPA
-- Mejor manejo de estados
-- Código más escalable
-
----
-
-## ☁️ DevOps (LO QUE TE DIFERENCIA DEL RESTO)
+### DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
 </p>
-
-- Contenedores con Docker
-- Deploy profesional
-- CI/CD básico
-
----
-
-## 🤖 Inteligencia Artificial (TU PLUS DIFERENCIAL)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
-- Integrar IA en apps web
-- Automatización
-- APIs de IA
-
 ---
 
 # 🚀 Proyectos Destacados
