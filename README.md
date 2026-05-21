@@ -19,7 +19,7 @@
 🚀 Buenas prácticas · Arquitectura · Mejora continua  
 
 **Intereses principales:**  
-Backend (Laravel/PHP) · Frontend moderno · IA en la web · Microservicios · Seguridad
+Desarrollo de Software
 
 ---
 
