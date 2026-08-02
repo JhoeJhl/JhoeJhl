@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joel-pinto-84219723a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a>
-  <a href="https://portafolio-ashy-alpha-90.vercel.app"><img src="https://img.shields.io/badge/Portafolio-000000?logo=vercel&logoColor=white&style=flat-square"></a>
+  <a href="https://portafoliojhoe.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-000000?logo=vercel&logoColor=white&style=flat-square"></a>
   <a href="mailto:pinto.12574531@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
 </div>
 
